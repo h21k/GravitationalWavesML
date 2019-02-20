@@ -1,5 +1,12 @@
 # GravitationalWavesML
-Gravitational Waves Machine Learning Model (LIGO Data)
+Gravitational Waves Machine Learning Model (LIGO Data)<br>
+More information on this soon...<br>
+
+# Resources
+
+## Data
+
+`[w](ww)`
 
 + Data Setup
 + Strucutre
