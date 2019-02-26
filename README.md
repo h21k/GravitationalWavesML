@@ -3,6 +3,8 @@ Gravitational Waves Machine Learning Model (LIGO Data)<br>
 More information on this soon...<br>
 
 # Resources
++ add 1.3
++ add 1.5
 
 ## Data
 
