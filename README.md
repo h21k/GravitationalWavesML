@@ -1,9 +1,10 @@
 # GravitationalWavesML
 Gravitational Waves Machine Learning Model (LIGO Data)<br>
 More information on this soon...<br>
+Prep complete - <br>
 
 # Resources
-+ add 1.3
++ add 1.3 /2/7
 + add 1.5
 
 ## Data
